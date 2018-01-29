@@ -1,7 +1,7 @@
 test line 1
-test line 2
+ys test line 2
 test line 3
-test line 5
+ys remove line 5
 test line 6
 test line 8
 test line 9
